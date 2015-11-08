@@ -24,6 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <jennie>hi amber</jennie>
         <activity
             android:name="com.example.demo.MainFragment"
             android:label="@string/title_activity_main_fragment" >
