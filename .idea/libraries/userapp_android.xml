@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="userapp-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/userappandroiddemo2/libs/userapp-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

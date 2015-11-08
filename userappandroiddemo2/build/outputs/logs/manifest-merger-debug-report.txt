@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:2:1-35:12
+	xmlns:android
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+		INJECTED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:13:5-33:19
+	android:label
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.demo.MainActivity
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:19:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.demo.MainFragment
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:28:13-57
+meta-data#userapp.AppId
+ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:32:9-81
+	android:name
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:32:20-48
+	android:value
+		ADDED from /Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/src/main/AndroidManifest.xml:32:49-78

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/libs/userapp-android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ce072968aed2a264e9bd07764472e6a4796119ae">
+        <dex dex="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/build/intermediates/pre-dexed/debug/userapp-android-5514c3032b4493d94b5aba97a2d96e0d99951e5a.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/libs/json-20131018.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5b366c02a8dfca2b1d8ba1a0c4d2e666a2eeb75">
+        <dex dex="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/build/intermediates/pre-dexed/debug/json-20131018-7da9922f91882b2dce2de4e55801c7491f741bbf.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/build/intermediates/pre-dexed/debug/gson-2.2.4-ddd18c3d54a309a3c2cb48a661af9d05f099eb12.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/amberwallace/AndroidStudioProjects/userapp-android-demo_again/userappandroiddemo2/build/intermediates/pre-dexed/debug/android-support-v4-9ff28f2bd231e46cb1693417c71aeb6b8e7346b6.jar" />
+    </item>
+
+</items>
